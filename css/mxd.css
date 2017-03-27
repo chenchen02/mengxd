@@ -36,6 +36,9 @@ body{overflow-x:hidden;}
     margin-top: 10px;
 
 }
+
+#inda{color:red;}
+#inda:hover{color:black;}
 .topheader a {
     color: black;
 font-weight: 600;
@@ -44,6 +47,8 @@ font-weight: 600;
     height: 80px;
     display: block;
 }
+
+
 .topheader a:hover{color:#585656;}
 .topheader ul {
     float: right;
